@@ -22,8 +22,6 @@ namespace StudentGrades
                 return "F";
             else
                 return "Invalid";
-
-
         }
     }
 }
